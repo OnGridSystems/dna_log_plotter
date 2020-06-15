@@ -9,6 +9,7 @@ python = "^3.8"
 notebook = "^6.0.3"
 pandas = "^1.0.4"
 plotly = "^4.8.1"
+requests = "^2.23.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
